@@ -12,8 +12,7 @@ class script(object):
 ⚡ 𝗢𝗻𝗲-𝗧𝗮𝗽 𝗙𝗶𝗹𝗲 𝗦𝗵𝗮𝗿𝗶𝗻𝗴
 ╰───────────────⭓
 
-━━━━━━━━━━━━━━━━━━
-🚀 <b>Powered by @Kdrama_Talkies</b>"""
+🚀 <blockquote><b>Powered by @Kdrama_Talkies</b></blockquote>"""
 
     HELP_TXT = """🙋 𝗛𝗲𝗹𝗹𝗼, {}!
 
