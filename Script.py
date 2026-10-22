@@ -172,7 +172,7 @@ class script(object):
 
     CUSTOM_FILE_CAPTION = """<b>{file_name}
 
-✨<a href="https://t.me/kdrama_talkies">𝖩𝗈𝗂𝗇 Us @Kdrama_Talkies :)</a>
+✨ <a href="https://t.me/kdrama_talkies">𝖩𝗈𝗂𝗇 𝖴𝗌 @Kdrama_Talkies :)</a>
 
 <u><i>📌 Download this file and play it using VLC or MX Player for the best experience and to avoid sound issues.</i></u></b>"""
     
