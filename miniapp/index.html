@@ -333,7 +333,7 @@
   const BASE = location.pathname.replace(/\/$/, '');         // "/app"
   const MAX_SEND = 20;                                       // keep equal to MAX_SEND in plugins/miniapp.py
   const QUALITIES = ['480p', '720p', '1080p', '2160p'];
-  const LANGUAGES = ['Malayalam', 'Tamil', 'Telugu', 'Hindi', 'English', 'Kannada'];
+  const LANGUAGES = ['Asian', 'Korean', 'Chinese', 'Hindi', 'English', 'Original'];
   const QUALITY_RE = /(2160p|4k|1440p|1080p|720p|540p|480p|360p)/i;
   const qualityOf = (name) => {
     const m = name.match(QUALITY_RE); if (!m) return '';
