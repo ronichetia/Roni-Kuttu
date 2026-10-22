@@ -15,8 +15,8 @@ class script(object):
 💡 <b>Add me to your group and promote me as an Admin to unlock all features.</b>
 
 ━━━━━━━━━━━━━━━━━━
-👨‍💻 <b>Developer:</b> @im_goutham_josh
-🚀 <b>Powered by Kuttu Bot™</b>"""
+👨‍💻 <b>Brought To You:</b> By Joseph
+🚀 <b>Powered by @Kdrama_Talkies</b>"""
 
     HELP_TXT = """🙋 𝗛𝗲𝗹𝗹𝗼, {}!
 
@@ -40,24 +40,24 @@ class script(object):
     ABOUT_TXT = """<b>𝗔𝗯𝗼𝘂𝘁 𝗞𝘂𝘁𝘁𝘂 𝗕𝗼𝘁™</b>
 
 ━━━━━━━━━━━━━━━━━━
-🤖 𝖭𝖺𝗆𝖾       : 𝗞𝘂𝘁𝘁𝘂 𝗕𝗼𝘁™
-👨‍💻 𝖢𝗋𝖾𝖺𝗍𝗈𝗋    : <a href="https://t.me/wudixh15">𝖦𝗈𝗎𝗍𝗁𝖺𝗆 𝖲𝖤𝖱</a>
+🤖 𝖭𝖺𝗆𝖾       : BellaFind
+👨‍💻 𝖢𝗋𝖾𝖺𝗍𝗈𝗋    : <a href="https://t.me/talkies_flix">the feel guy</a>
 🐍 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾   : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥
 🗄️ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾   : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
-☁️ 𝖲𝖾𝗋𝗏𝖾𝗋     : 𝖪𝗈𝗒𝖾𝖻
+☁️ 𝖲𝖾𝗋𝗏𝖾𝗋     : Paid
 📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒    : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆
 ━━━━━━━━━━━━━━━━━━
 
 {}"""
 
-    SOURCE_TXT = """<b>📌 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗡𝗼𝘁𝗶𝗰𝗲</b>
+    SOURCE_TXT = """<b>📌 𝗖𝗼𝗱𝗲 𝗦𝗼𝘂𝗿𝗰𝗲 𝗡𝗼𝘁𝗶𝗰𝗲</b>
 
-𝖪𝗎𝗍𝗍𝗎 𝖡𝗈𝗍™ 𝗂𝗌 𝖺𝗇 𝗈𝗉𝖾𝗇-𝗌𝗈𝗎𝗋𝖼𝖾 𝗉𝗋𝗈𝗃𝖾𝖼𝗍 𝖻𝗎𝗂𝗅𝗍 𝗐𝗂𝗍𝗁 𝗅𝗈𝗏𝖾 𝖿𝗈𝗋 𝗍𝗁𝖾 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖼𝗈𝗆𝗆𝗎𝗇𝗂𝗍𝗒.
+𝖡𝖾𝗅𝗅𝖺𝗇𝖥𝗂𝗇𝖽 𝗂𝗌 𝖺𝗇 𝗈𝗉𝖾𝗇-𝗌𝗈𝗎𝗋𝖼𝖾 𝗉𝗋𝗈𝗃𝖾𝖼𝗍 𝖻𝗎𝗂𝗅𝗍 𝗐𝗂𝗍𝗁 𝗅𝗈𝗏𝖾 𝖿𝗈𝗋 𝗍𝗁𝖾 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖼𝗈𝗆𝗆𝗎𝗇𝗂𝗍𝗒.
 
-🔗 𝖲𝗈𝗎𝗋𝖼𝖾 → <a href="https://github.com/GouthamSER/KuttuBot">𝖵𝗂𝖾𝗐 𝗈𝗇 𝖦𝗂𝗍𝖧𝗎𝖻 🚀</a>
+🔗 𝖯𝖺𝗂𝖽 → <a href="t.me/idle_joseph">𝖢𝗈𝗇𝗍𝖺𝖼𝗍 𝖠𝖽𝗆𝗂𝗇 🚀</a>
 
 <b>👨‍💻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋</b>
-• <a href="https://t.me/wudixh15">𝖦𝗈𝗎𝗍𝗁𝖺𝗆 𝖲𝖤𝖱</a>"""
+• <a href="https://t.me/talkies_flix">𝗍𝗁𝖾 𝖿𝖾𝖾𝗅 𝗀𝗎𝗒</a>"""
 
     MANUELFILTER_TXT = """🔧 <b>𝗛𝗲𝗹𝗽 — 𝗠𝗮𝗻𝘂𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿𝘀</b>
 
@@ -171,24 +171,15 @@ class script(object):
 
     RESULT_TXT = """✅ <b>𝖧𝖾𝗒 {}!  𝖨 𝖿𝗈𝗎𝗇𝖽 𝗂𝗍 𝗂𝗇 𝗆𝗒 𝖽𝖺𝗍𝖺𝖻𝖺𝗌𝖾 🎯</b>"""
 
-    CUSTOM_FILE_CAPTION = """<b>📁 𝖥𝗂𝗅𝖾 𝖭𝖺𝗆𝖾 : {file_name}
-📦 𝖥𝗂𝗅𝖾 𝖲𝗂𝗓𝖾 : {file_size}
+    CUSTOM_FILE_CAPTION = """<b>{file_name}
 
-┌────────────────┐
-✨ <a href="https://t.me/+53lB8qzQaGFlNDll">𝖩𝗈𝗂𝗇 𝖤𝗅𝖽𝗈𝗋𝖺𝖽𝗈 :)</a>
-└────────────────┘
-
-╭───────────────╮
-⚡ <b>Instant Link Generator</b>
-├ 🔗 <a href="https://t.me/file2linkkuttu_bot">File ² Link</a>
-├ 🔗 <a href="https://t.me/filestreamk_bot">File Stream Bot</a>
-╰───────────────╯
+✨<a href="https://t.me/kdrama_talkies">𝖩𝗈𝗂𝗇 Us @Kdrama_Talkies :)</a>
 
 <u><i>📌 Download this file and play it using VLC or MX Player for the best experience and to avoid sound issues.</i></u></b>"""
     
-    RESTART_TXT = """✅ <b>𝗞𝘂𝘁𝘁𝘂 𝗕𝗼𝘁™  𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗲𝗱  🔄</b>
+    RESTART_TXT = """✅ <b>𝗕𝗲𝗹𝗹𝗮𝗙𝗶𝗻𝗱  𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗲𝗱  🔄</b>
 
-⚡ @im_goutham_josh"""
+⚡ @tubi_bots"""
 
     SPOLL_NOT_FND = """😔 <b>𝖭𝗈𝗍𝗁𝗂𝗇𝗀 𝖥𝗈𝗎𝗇𝖽 🤷</b>
 
