@@ -20,7 +20,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '8613715629:AAGWR64zjoJLGeIARnRjvdumOGgP5QO
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/8619a6f258621134b7576.jpg https://telegra.ph/file/d8daf35960bbb4a7f8558.jpg')).split()
+PICS = (environ.get('PICS', 'https://ibb.co/gMb0vSH3')).split()
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8699747292').split()]
@@ -39,17 +39,17 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'files')
 
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1003992777109'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'wudixh15')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@tubi_bots')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', 'True')), False)
 IMDB = is_enabled((environ.get('IMDB', 'False')), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', 'True')), False)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CUSTOM_FILE_CAPTION}") ## CHANGE CODE IN SCRIPT
-BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "📂 <em>File Name</em>: <code>{file_name}</code>\n\n ♻ <em>File Size</em>:{file_size} \n\n <b><i>Latest Movies -</i> [ELDORADO](https://t.me/wudixh) </b>")
+BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "📂{file_name}\n\n Join Us @Kdrama_Talkies</b>")
 MINIAPP_URL = environ.get("MINIAPP_URL", "https://fantastic-halimeda-hundeep-00364ce6.koyeb.app/").strip().rstrip("/") # public HTTPS url of this bot's web server, e.g. https://yourapp.koyeb.app
 if MINIAPP_URL and not MINIAPP_URL.endswith("/app"):
     MINIAPP_URL += "/app"
 AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "600")) # seconds, 0 disables auto-delete
-IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> \n🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10 \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} \n\n🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [Kuttu Bot](https://t.me/im_kuttu_bot)")
+IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> \n🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10 \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} \n\n🎊 𝖡𝗒 [Bella Find](https://t.me/kdrama_talkies)")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
@@ -57,7 +57,7 @@ INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1003992777109')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
-PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), True)
+PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), False)
 TMDB_API_KEY = environ.get("TMDB_API_KEY") # optional. Mini app only: poster fallback when OMDb has no poster. Bot /imdb stays OMDb-only.
 OMDB_API_KEY = environ.get("OMDB_API_KEY") #get free key from omdbapi.com. Backup source when imdbio is blocked/down
 
