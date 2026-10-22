@@ -12,10 +12,9 @@ class script(object):
 ⚡ 𝗢𝗻𝗲-𝗧𝗮𝗽 𝗙𝗶𝗹𝗲 𝗦𝗵𝗮𝗿𝗶𝗻𝗴
 ╰───────────────⭓
 
-💡 <b>Add me to your group and promote me as an Admin to unlock all features.</b>
+💡 <b>ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ʙᴏᴛ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ɪɴ ɢʀᴏᴜᴘꜱ ᴀɴᴅ (ᴘᴍꜱ). !! ❤️.</b>
 
 ━━━━━━━━━━━━━━━━━━
-👨‍💻 <b>Brought To You:</b> By Joseph
 🚀 <b>Powered by @Kdrama_Talkies</b>"""
 
     HELP_TXT = """🙋 𝗛𝗲𝗹𝗹𝗼, {}!
@@ -37,7 +36,7 @@ class script(object):
 
 ⚠️ 𝖯𝗅𝖾𝖺𝗌𝖾 𝖽𝗈 𝗇𝗈𝗍 𝗌𝗉𝖺𝗆 𝗆𝖾. 𝖱𝖾𝗌𝗉𝖾𝖼𝗍 𝗀𝗈𝖾𝗌 𝖻𝗈𝗍𝗁 𝗐𝖺𝗒𝗌 😊"""
 
-    ABOUT_TXT = """<b>𝗔𝗯𝗼𝘂𝘁 𝗞𝘂𝘁𝘁𝘂 𝗕𝗼𝘁™</b>
+    ABOUT_TXT = """<b>𝗔𝗯𝗼𝘂𝘁 𝗕𝗼𝘁™</b>
 
 ━━━━━━━━━━━━━━━━━━
 🤖 𝖭𝖺𝗆𝖾       : BellaFind
@@ -218,7 +217,7 @@ class script(object):
 
     MOV_NT_FND = """<b>❌ 𝖳𝗁𝗂𝗌 𝗆𝗈𝗏𝗂𝖾 𝗂𝗌 𝗇𝗈𝗍 𝗒𝖾𝗍 𝖺𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝗂𝗇 𝗈𝗎𝗋 𝖽𝖺𝗍𝖺𝖻𝖺𝗌𝖾 🎬</b>
 
-📩 𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖠𝖽𝗆𝗂𝗇 — @im_goutham_josh
+📩 𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖠𝖽𝗆𝗂𝗇 — @idle_joseph
 """
 
     DMCA_TXT = """<b><u>⚖️ 𝗗𝗠𝗖𝗔 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗡𝗼𝘁𝗶𝗰𝗲</u></b>
